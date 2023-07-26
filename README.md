@@ -22,4 +22,4 @@ This is a Flutter app showcasing the UI for a music app with two main screens - 
 1. Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/letscodecraft/flutter-music-app.git
+   git clone https://github.com/letscodecraft/music-app-ui.git
